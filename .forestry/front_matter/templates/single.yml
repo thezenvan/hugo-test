@@ -12,3 +12,5 @@ fields:
 - type: file
   name: picutre
   label: picutre
+pages:
+- content/about.md
