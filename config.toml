@@ -1,4 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Test Hugo"
-theme = "ananke"
+theme = "jeffprod"
+
+[permalinks]
+	post = "/:year/:filename"
+
+[taxonomies]
+	tag = "tags"
+	acrhive = "archives"
