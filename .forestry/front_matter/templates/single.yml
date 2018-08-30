@@ -1,0 +1,14 @@
+---
+label: single
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: textarea
+  label: textarea
+- type: file
+  name: picutre
+  label: picutre
