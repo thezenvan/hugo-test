@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Hugo</title>
-    <link>https://cranky-curie-31d16d.netlify.com/</link>
-    <description>Recent content on Test Hugo</description>
+    <title>Posts on Test Hugo</title>
+    <link>https://cranky-curie-31d16d.netlify.com/posts/</link>
+    <description>Recent content in Posts on Test Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 12:33:52 -0400</lastBuildDate>
     
-	<atom:link href="https://cranky-curie-31d16d.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cranky-curie-31d16d.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
